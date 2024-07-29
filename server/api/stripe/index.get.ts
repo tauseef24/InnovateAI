@@ -42,7 +42,7 @@ export default defineEventHandler(async (event) => {
         price_data: {
           currency: "USD",
           product_data: {
-            name: "MultiGenix Pro",
+            name: "InnovateAI Pro",
             description: "AI Saas Using Nuxt3",
           },
           unit_amount: 2000, //$20
