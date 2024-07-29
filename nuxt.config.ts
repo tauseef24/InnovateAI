@@ -42,11 +42,11 @@ export default defineNuxtConfig({
   runtimeConfig: {
     geminiKey: "",
     replicateKey: "",
-    stripeSecret: '',
-    stripeWebhookSecret:'',
-    appUrl: '',
+    stripeSecret: "",
+    stripeWebhookSecret: "",
+    appUrl: "",
     public: {
-      publicStripeKey:''
-    }
+      publicStripeKey: "",
+    },
   },
 });
